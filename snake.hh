@@ -4,12 +4,8 @@ class Snake{
         int getx();
         int gety();
 
-        ~Snake();
     private:
         int x;
         int y;
-
-
-
 
 };

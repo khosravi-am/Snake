@@ -15,7 +15,3 @@ int Snake::getx(){
 int Snake::gety(){
     return this->y;
 }
-
-Snake::~Snake()
-{
-}
